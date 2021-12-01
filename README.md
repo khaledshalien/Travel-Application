@@ -19,4 +19,4 @@ samples, guidance on mobile development, and a full API reference.
 
 ## ScreenShot
 
-<img src="aassets/images/screenshot/travel.jpeg" height="500em" />
+<img src="assets/images/screenshot/travel.jpeg" height="500em" />
